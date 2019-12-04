@@ -687,4 +687,6 @@ You can also enable the explain mode using the following sql statement:
 set hive.log.explain.output=true;
 ```
 
+
+
 </div>
